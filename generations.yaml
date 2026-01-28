@@ -1,0 +1,25 @@
+references:
+  - "https://en.wikipedia.org/wiki/Mercedes-Benz_GLB"
+
+generations:
+  - name: "First Generation (X247)"
+    start_year: 2019
+    end_year: 2023
+    description: "Pre-facelift GLB 250 4MATIC. The GLB is positioned between the GLA and the larger GLC in size, equipped with optional third row seating. Uses the MFA2 platform with standard all-wheel-drive and an eight-speed dual clutch automatic transmission."
+    platform: "MFA2"
+    engine: "2.0L M260 DE20 LA inline-4 turbo"
+    transmission: "8-speed automatic 8G-DCT"
+    power: "224 hp @ 5,800 rpm"
+    torque: "258 lb-ft @ 1,800-4,000 rpm"
+    layout: "Front-engine, all-wheel-drive"
+
+  - name: "First Generation (X247) Facelift"
+    start_year: 2024
+    end_year: null
+    description: "Facelifted GLB for the 2024 model year. Features new headlights and taillights, updated MBUX infotainment system with wireless Apple CarPlay and Android Auto, and a new 48-volt mild hybrid system (EQ Boost)."
+    platform: "MFA2"
+    engine: "2.0L M260 DE20 LA inline-4 turbo with mild hybrid"
+    transmission: "8-speed automatic 8G-DCT"
+    power: "224 hp @ 5,800 rpm"
+    torque: "258 lb-ft @ 1,800-4,000 rpm"
+    layout: "Front-engine, all-wheel-drive"
